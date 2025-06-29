@@ -1,1 +1,1 @@
-# AI-Projects-Forecasting-Tool
+# AI-Forecasting-Tool
